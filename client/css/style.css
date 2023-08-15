@@ -16,9 +16,9 @@
 } */
 
 :root {
-    --colour-1: #000000;
+    --colour-1: hsl(127.38deg 34.65% 62.87%);
     --colour-2: #ccc;
-    --colour-3: #e4d4ff;
+    --colour-3: black;
     --colour-4: #f0f0f0;
     --colour-5: #181818;
     --colour-6: #242424;
@@ -739,7 +739,7 @@ a:-webkit-any-link {
 }
 
 .color-picker input[type="radio"]#light {
-    --radio-color: gray;
+    --radio-color: black;
 }
 
 .color-picker input[type="radio"]#pink {

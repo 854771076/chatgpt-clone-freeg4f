@@ -1,2 +1,5 @@
 flask
 requests
+flask_cors
+g4f
+js2py
